@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/6NztF4dai1K_captions.js', {"captions":[{"langCode":"en","data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.99.34516.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:03.362%0D%0AOops!%20That%20may%20be%20too%20low%20to%20activate%20your%20credit%20card.%0D%0A%0D%0A"}]})

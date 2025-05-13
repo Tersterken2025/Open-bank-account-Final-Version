@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5Y6h6UPjGk1_captions.js', {"captions":[{"langCode":"en","data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.99.34516.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:04.337%0D%0AOops,%20that\'s%20wrong.%20Opening%20a%20CITI%20Bank%20Account%20requires%20SSN.%0D%0A%0D%0A"}]})

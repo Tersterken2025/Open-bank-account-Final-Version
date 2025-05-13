@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5cYqk0qVjsZ_captions.js', {"captions":[{"langCode":"en","data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.99.34516.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:03.965%0D%0ANow,%20I%20will%20help%20you%20open%20both%20checking%20and%20savings%20accounts.%0D%0A%0D%0A"}]})
